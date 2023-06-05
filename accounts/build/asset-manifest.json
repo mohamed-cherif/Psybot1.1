@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f13a17cd.css",
+    "main.js": "/static/js/main.63352e7e.js",
+    "static/media/bot.png": "/static/media/bot.275c81d93af2016c11f0.png",
+    "static/media/result.png": "/static/media/result.bef9b398cd426d3a1c03.png",
+    "static/media/ME.png": "/static/media/ME.21da7ca2ac239109f08e.png",
+    "static/media/team.png": "/static/media/team.24d4f470ba30ba1f34bb.png",
+    "static/media/media.png": "/static/media/media.8d8c46193c16a0d8c371.png",
+    "static/media/medical-team.png": "/static/media/medical-team.b9aa54f1fdd52026367a.png",
+    "static/media/Psybot.png": "/static/media/Psybot.2c4ca7a2ab8c45aca69d.png",
+    "static/media/happy.png": "/static/media/happy.5afbc8f51707b69bb150.png",
+    "static/media/subscribe.png": "/static/media/subscribe.1d055134a9fcf69fc24f.png",
+    "static/media/user.png": "/static/media/user.51c34525b44bcfbe52ee.png",
+    "static/media/browse.png": "/static/media/browse.9fd4060c49109b5df974.png",
+    "static/media/help.png": "/static/media/help.d082ec65dd578d04c567.png",
+    "static/media/magic.png": "/static/media/magic.dfea426638358cfa97c2.png",
+    "static/media/diagnostic.png": "/static/media/diagnostic.9a1183cb84dab2d9dfec.png",
+    "static/media/download.png": "/static/media/download.05553940bef4311abd78.png",
+    "static/media/sign.png": "/static/media/sign.b0023591c6f60d74c0a2.png",
+    "static/media/heal.png": "/static/media/heal.51b8395b9506b926ebac.png",
+    "static/media/stats.png": "/static/media/stats.2f5633100f92168c97ca.png",
+    "static/media/instagram.png": "/static/media/instagram.6269084040db3ce6e765.png",
+    "static/media/report.png": "/static/media/report.26ffe4fbc0d29f976a2f.png",
+    "static/media/safe.png": "/static/media/safe.c64a143f34c0e3d43c58.png",
+    "static/media/github.png": "/static/media/github.1747f9af404bc75c64b8.png",
+    "static/media/hero2-bg.png": "/static/media/hero2-bg.045c07dcbd4a9870364c.png",
+    "index.html": "/index.html",
+    "main.f13a17cd.css.map": "/static/css/main.f13a17cd.css.map",
+    "main.63352e7e.js.map": "/static/js/main.63352e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f13a17cd.css",
+    "static/js/main.63352e7e.js"
+  ]
+}
