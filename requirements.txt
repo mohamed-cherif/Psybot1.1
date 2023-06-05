@@ -14,7 +14,6 @@ django-templated-mail==1.1.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
-fasttext @ file:///C:/Users/LENOVO/Desktop/Using%20AI%20to%20prevent%20mental%20illness/Psybot1.1/fastText
 gunicorn==20.1.0
 idna==3.4
 itypes==1.2.0
